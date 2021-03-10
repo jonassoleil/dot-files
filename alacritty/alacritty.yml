@@ -1,0 +1,42 @@
+font:
+  size: 16
+  normal:
+    family: Source Code Pro
+    style: Regular
+
+  bold:
+    family: Source Code Pro
+    style: Bold
+
+  italic:
+    family: Source Code Pro
+    style: Italic
+
+colors:
+  primary:
+    background: '0x191919'
+    foreground: '0xeaeaea'
+
+  cursor:
+    text:   '0xf1c1c1'
+    cursor: '#FF00FF'
+
+cursor:
+  # Cursor style
+  #
+  # Values for 'style':
+  #   - ▇ Block
+  #   - _ Underline
+  #   - | Beam
+  style: Underline 
+  unfocused_hollow: true 
+
+
+background_opacity: 0.9
+
+decorations: false
+
+draw_bold_text_with_bright_colors: true
+
+
+
